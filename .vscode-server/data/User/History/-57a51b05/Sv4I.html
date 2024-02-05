@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+</head>
+
+<body>
+    <h1>Hello you are logged in.</h1>
+    <form method="POST">
+        <p>Firstname</p> {{ form.firstname.data }}
+        <p>Lastname</p> {{ form.lastname.data }}
+        <p>Email</p> {{ form.email.data }}
+    </form>
+    <a href="{{url_for('logout')}}">Press here to logout</a>
+</body>
+
+</html>

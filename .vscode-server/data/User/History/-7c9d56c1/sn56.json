@@ -1,0 +1,20 @@
+{
+    "editor.formatOnSave": true,
+    "git.ignoreWindowsGit27Warning": true,
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "material-icon-theme.showUpdateMessage": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "haskell.manageHLS": "GHCup",
+    "redhat.telemetry.enabled": false,
+    "remote.SSH.remotePlatform": {
+        "ec2-3-131-128-212.us-east-2.compute.amazonaws.com": "linux"
+    }
+}

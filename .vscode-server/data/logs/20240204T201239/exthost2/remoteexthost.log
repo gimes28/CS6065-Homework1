@@ -1,0 +1,16 @@
+2024-02-04 20:16:51.857 [info] Extension host with pid 1583 started
+2024-02-04 20:16:51.908 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/c2dad3835222ddf6755d9453a0627c4d/vscode.lock': Lock acquired.
+2024-02-04 20:16:52.007 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-02-04 20:16:52.079 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-04 20:16:52.389 [info] Eager extensions activated
+2024-02-04 20:16:52.397 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:16:52.398 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-04 20:16:52.960 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-02-04 20:21:58.665 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-02-04 20:29:24.919 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-04 20:32:43.030 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-04 20:46:04.545 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2024-02-04 21:16:55.682 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-04 21:16:55.687 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-02-05 00:04:22.766 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1298
+2024-02-05 00:04:23.594 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1298
